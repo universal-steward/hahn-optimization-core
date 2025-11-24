@@ -1,6 +1,3 @@
-***
-
-```python
 import numpy as np
 
 class SphereBaseOne:
